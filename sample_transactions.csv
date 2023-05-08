@@ -1,0 +1,11 @@
+Transaction ID,Transaction Type,Transaction Date,Counterparty,Amount (USD),Currency,FX Rate
+20001,FX Swap,2023-01-01,XYZ Corp,"500,000",EUR,1.1
+20002,Money Market,2023-01-02,ABC Bank,"1,000,000",USD,1
+20003,Wire Transfer,2023-01-03,XYZ Corp,"750,000",GBP,1.45
+20004,Forward Contract,2023-01-04,ABC Bank,"1,500,000",JPY,0.0085
+20005,FX Option,2023-01-05,XYZ Corp,"1,000,000",CHF,1.05
+20006,Wire Transfer,2023-01-06,ABC Bank,"2,500,000",CAD,0.8
+20007,Money Market,2023-01-07,XYZ Corp,"750,000",USD,1
+20008,FX Forward,2023-01-08,ABC Bank,"3,000,000",AUD,0.7
+20009,Wire Transfer,2023-01-09,XYZ Corp,"200,000",CHF,1.05
+20010,Forward Contract,2023-01-10,ABC Bank,"500,000",GBP,1.35
